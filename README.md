@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kendii001</h1>
 <h3 align="center">A passionate frontend developer and backened developer</h3>
 
-- 🌱 I’m currently learning **I am currently taking BscIT**
+- 
 
 - 📫 How to reach me **kendijackline004@gmail**
 
