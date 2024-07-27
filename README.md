@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm kendii001</h1>
 <h3 align="center">A passionate frontend and backened developer</h3>
 
-- 🌱 I’m currently pursing **BSC IT**
+ 🌱 I’m currently pursing **BSC IT**
 
-- 📫 How to reach me Email: **kendijackline004@gmail.com**
+ 📫 How to reach me Email: **kendijackline004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
