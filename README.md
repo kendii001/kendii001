@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm kendii001</h1>
-<h3 align="center">A passionate frontend  and backened developer</h3>
+<h3 align="center">A passionate frontend and backened developer</h3>
 
+- 🌱 I’m currently pursing **BSC IT**
 
- 📫 How to reach me **kendijackline004@gmail**
+- 📫 How to reach me Email: **kendijackline004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,3 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kendii001&show_icons=true&locale=en&layout=compact" alt="kendii001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kendii001&" alt="kendii001" /></p>
+
