@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kendii001</h1>
-<h3 align="center">A passionate frontend developer and backened developer</h3>
+<h3 align="center">A passionate frontend  and backened developer</h3>
 
 
  📫 How to reach me **kendijackline004@gmail**
